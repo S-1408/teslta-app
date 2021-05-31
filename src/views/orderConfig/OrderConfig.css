@@ -1,0 +1,94 @@
+.order{
+    height:250vh;
+    overflow-x: hidden;
+}
+.rowA{
+    color: black;
+    display: flex;
+margin-top: 100px;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+
+}
+.rowB{
+    font-size:15px ;
+    font-weight:bold
+}
+.rowC{
+    font-size:10px ;
+}
+.secAbutton{
+    border-radius: 20px;
+    padding: 8px 15px;
+    margin-bottom: 5px;
+    
+    cursor: pointer;
+    border:1px solid #686868;
+    color:#000000;
+    background-color: #ffffff;
+    font-size: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+.secAbutton:hover{
+    border:2px solid skyblue
+}
+.rowD{
+    color: black;
+    display: flex;
+margin-top: 50px;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+   text-align: center;
+
+}
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin-right: 10px;
+
+ 
+  }
+  .rowE{
+    color: black;
+    display: flex;
+margin-top: 50px;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .circleImg{
+      display: flex;
+      align-items: center;
+      width:100%;
+      justify-content: center;
+      width:100%;
+      /* height:100px; */
+      /* object-fit:cover;
+      border-radius: 50%; */
+
+  }
+  .circleImg img {
+      width:60px;
+      height:60px;
+      object-fit:cover;
+      border-radius: 50%;
+      border:2px solid red;
+      margin: 0 5px;
+      
+  }
+
+  .rowG{
+    margin-top:20px;
+    font-weight:bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }

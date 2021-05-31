@@ -1,0 +1,35 @@
+[
+  {
+    "totalElements": 4,
+    "elements": [
+      {
+        "model": "modelS",
+        "displayName": "Model S",
+        "range": 390,
+        "acceleration": { "speed": "0-60", "time": 1.99 },
+        "topSpeed": 200,
+        "peakPower": 1020
+      },
+      {
+        "model": "model3",
+        "displayName": "Model 3",
+        "range": 353,
+        "acceleration": { "speed": "0-60", "time": 3.1 },
+        "AWD": "Dual Motor"
+      },
+      {
+        "model": "modelX",
+        "displayName": "Model X",
+        "range": 340,
+        "acceleration": { "speed": "0-60", "time": 2.5 },
+        "peakPower": 1020
+      },
+      {
+        "model": "modelY",
+        "displayName": "Model Y",
+        "range": 326,
+        "AWD": "Dual Motor"
+      }
+    ]
+  }
+]
