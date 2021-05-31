@@ -1,0 +1,34 @@
+{
+  "model": "modelS",
+  "displayName": "Model S",
+  "variants": [
+    {
+      "variant": "PLAID",
+      "variantName": "Plaid",
+      "range": 390,
+      "peakPower": "1,020 hp",
+      "wheels": [19, 21],
+      "cargo": "28 cu ft",
+      "weight": 4766,
+      "acceleration": { "speed": "0-60", "time": 1.99 },
+      "topSpeed": 200,
+      "dragCoefficient": "0.208 Cd",
+      "powertrain": "Tri Motor",
+      "superchargingMax": "250kW"
+    },
+    {
+      "variant": "LONG_RANGE",
+      "variantName": "Long Range",
+      "range": 412,
+      "peakPower": "670 hp",
+      "wheels": [19, 21],
+      "cargo": "28 cu ft",
+      "weight": 4561,
+      "acceleration": { "speed": "0-60", "time": 3.1 },
+      "topSpeed": 155,
+      "dragCoefficient": "0.208 Cd",
+      "powertrain": "Dual Motor",
+      "superchargingMax": "250kW"
+    }
+  ]
+}

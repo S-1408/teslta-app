@@ -1,0 +1,29 @@
+.secBbutton{
+    background-color: #000000;
+    border-radius: 20px;
+    padding:3px 45px;
+    cursor: pointer;
+    border:1px solid #ffffff;
+    color:#ffffff;
+    font-size: 12px;
+}
+.secBbutton1{
+    background-color: #000000;
+    border-radius: 20px;
+    padding:3px 55px;
+    cursor: pointer;
+    border:2px solid #ffffff;
+    color:#ffffff;
+    font-size: 12px;
+}
+.textA{
+    color: white;
+     margin-top: 80px;
+     margin-left:6px;
+}
+.textB{
+    color: white;
+    margin-top: 30px;
+    margin-left:6px;
+     font-size:12px
+}
